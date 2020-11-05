@@ -1,0 +1,8 @@
+main: com.adincrafty.mod.Main
+name: InCraftyLearn
+version: 1.0
+author: InCraftyLearn
+description: Plugin d'apprentissage
+api-version: 1.16
+commands:
+  mod:
